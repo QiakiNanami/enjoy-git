@@ -1,5 +1,7 @@
 var fs = require('fs')
 
+var hua = fafa
+
 var express = require('express')
 
 var bodyParser = require('body-parser')
